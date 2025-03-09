@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: fcdddd1205fc69842b6fd7eff27459f3
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u505C\u8ECA\u8655\u865F\u8A8C"
+    second: {fileID: 2100000, guid: 4a5746aa5014af14b9c2de0b6a26782f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u524D\u9762\u5F4E\u8DEF\u5C0F\u5FC3\u6162\u884C"
+    second: {fileID: 2100000, guid: 83b9a4fc90f97104ba1f6edb256b8344, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u5275\u79D1\u724C"
+    second: {fileID: 2100000, guid: b4b124279c5d6f94f9957fa410e183d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u52D5\u7269\u6A19\u8A8C"
+    second: {fileID: 2100000, guid: 859f1bc0d4391fa42ba149afe2c591df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u53F3\u5F4E"
+    second: {fileID: 2100000, guid: ca355741eb0b9a4409b4bdbd79e6fcef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u53F3\u9023\u7E8C\u5F4E\u8DEF"
+    second: {fileID: 2100000, guid: 755ee3957faf06d40a62f4caa85d3d31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u5713\u74B0(\u5B57)"
+    second: {fileID: 2100000, guid: 647c911c3b5fa0846b786eeab47e8870, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u5713\u74B0\u5716\u7247"
+    second: {fileID: 2100000, guid: 7e5d68fc4be6b08448021a975ccc3359, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u5761\u5EA6\u53C9\u8DEF"
+    second: {fileID: 2100000, guid: f78a4ab5629e63c4eb4a1a8370070a19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u5DE6\u5F4E"
+    second: {fileID: 2100000, guid: 051707dc3b1aaf849baefe9b29b000b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u5DE6\u9023\u7E8C\u5F4E\u8DEF"
+    second: {fileID: 2100000, guid: 38f5f0c986d7d2d4980a1689371e3ab9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6162"
+    second: {fileID: 2100000, guid: ecbdf419de14cd448bedaab76ec38b37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6700\u9AD8\u901F\u9650"
+    second: {fileID: 2100000, guid: 00b114e6b00981b41a9325fefbf5fc0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u67F5\u6B04(\u5B57)"
+    second: {fileID: 2100000, guid: 94f1cb661fc12144a8dfdc3bf1f409d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u67F5\u6B04\u6A19\u8A8C"
+    second: {fileID: 2100000, guid: 394a79835cfb6944cbd8c4db08f1c92b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6A5F\u8ECA\u5C08\u7528\u865F\u8A8C"
+    second: {fileID: 2100000, guid: 1b2e556fb04aac44e9f305ba45a269fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6C7D\u6A5F\u8ECA\u5C08\u7528\u865F\u8A8C"
+    second: {fileID: 2100000, guid: 6626431706e439d4dae777ff173b663e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6C7D\u8ECA\u5C08\u7528\u865F\u8A8C"
+    second: {fileID: 2100000, guid: b8f6971dfb9ebb84b8c44fed71883d22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u7070\u8272"
+    second: {fileID: 2100000, guid: e692108e07b8f4f45949372eb072b5cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u7121\u969C\u7919"
+    second: {fileID: 2100000, guid: 370512c860028f6419dd833b68517c3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u7121\u969C\u7919\u901A\u8DEF(\u5B57)"
+    second: {fileID: 2100000, guid: 4d8419f686f88ce43a2e5fc6ac06d87a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u7576\u5FC3\u884C\u4EBA(\u5B57)"
+    second: {fileID: 2100000, guid: 824ffd7a3447edf4a81f1c7ce83ceda4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u7576\u5FC3\u884C\u4EBA\u865F\u8A8C"
+    second: {fileID: 2100000, guid: ff719eae1243cac45928bbe5813831ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u767D\u8272"
+    second: {fileID: 2100000, guid: eecc07a36a3a80f4eb9da4af16f04659, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u7D05\u8272"
+    second: {fileID: 2100000, guid: e7bde7d0e718cc242a14b4fe6a403727, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u85CD\u8272.001"
+    second: {fileID: 2100000, guid: a69a05b00db218c4786c67faa647813d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u901F\u965030"
+    second: {fileID: 2100000, guid: 5ae8c985ab2e4534f9421de17d690d3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u9023\u7E8C\u5F4E\u8DEF(\u5B57)"
+    second: {fileID: 2100000, guid: 8ad239555b4736842b6b093f5a2d0e12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u96AA\u964D\u5761(\u5B57)"
+    second: {fileID: 2100000, guid: 1bac229847483324381d795ad1d130ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u96AA\u964D\u5761\u865F\u8A8C"
+    second: {fileID: 2100000, guid: 10fd00f201162524a85b92ea36a25183, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u9EC3\u8272"
+    second: {fileID: 2100000, guid: c23720cbe04f8a244a4db8356f9c8329, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u9ED1\u8272"
+    second: {fileID: 2100000, guid: 7acce1279bc928d4e881afc66d59413f, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-27 205028"
+    second: {fileID: 2800000, guid: 53467ea4e3fe6764b904591bd7626911, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-27 205815"
+    second: {fileID: 2800000, guid: 556f9960ae5a58b4c9791736cedbefb4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-27 210544"
+    second: {fileID: 2800000, guid: 63d09673aa3a7be4d88da3b285f9e99f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-28 214600"
+    second: {fileID: 2800000, guid: bb54c8f37ca5c924eba58bd8ca63a7a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-28 215931"
+    second: {fileID: 2800000, guid: 32685189f164e7040a7fddae1f6acb60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-28 221626"
+    second: {fileID: 2800000, guid: 2065b67c638c65f48b1260819702c3ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-28 231420"
+    second: {fileID: 2800000, guid: 5cc8b7ebb8ebf6a46ae7b9e1508f85c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-29 031740"
+    second: {fileID: 2800000, guid: 4689c658d019a19488c999117b309340, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-29 032843"
+    second: {fileID: 2800000, guid: fe9ef7c8ff30e164995e8c2b6e9edcbd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-29 033933"
+    second: {fileID: 2800000, guid: 39bf79ae7aa4f57468a81f4b789d1efe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-29 034559"
+    second: {fileID: 2800000, guid: 53ba81cf2e8682c448e7a402e49d66d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-29 035920"
+    second: {fileID: 2800000, guid: 36eb74b42ddd19d4285f0ee8c5aa943e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-29 040335"
+    second: {fileID: 2800000, guid: 89fd1a9341bb36d48876e56e07d78d2d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-29 043258"
+    second: {fileID: 2800000, guid: 3739580a906ad0441bff38ebf693fe0f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-29 044118"
+    second: {fileID: 2800000, guid: 3b73ebfe11edb704fb3939d5e634a7d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-29 044542"
+    second: {fileID: 2800000, guid: fb12058e9b0099644beaaa09378287d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-29 044734"
+    second: {fileID: 2800000, guid: cafa2c3820427934b98517c146a1b7ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-29 051612"
+    second: {fileID: 2800000, guid: 4c5f09c91fe1ddf4a889531f837e30ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-29 135308"
+    second: {fileID: 2800000, guid: 7765444f08ca26a438d169617e418c42, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-29 135313"
+    second: {fileID: 2800000, guid: 3360f9f6cb7e46c4594c6ae6926d053b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-29 135320"
+    second: {fileID: 2800000, guid: 79dd351dc8624cb438efd121a7ac9e04, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-29 135326"
+    second: {fileID: 2800000, guid: 58e348e992671094195c5a646969884c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-29 135335"
+    second: {fileID: 2800000, guid: 51221227cccfc654f866b2c78ae83aac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-29 135343"
+    second: {fileID: 2800000, guid: 3723784e804630243b77ceacacf2e85b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-29 135348"
+    second: {fileID: 2800000, guid: 1a9dba449b3392b458c25f5d3ef4fe9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u87A2\u5E55\u64F7\u53D6\u756B\u9762 2024-09-29 135825"
+    second: {fileID: 2800000, guid: 937685f48e438a34bb6564bea4e624bd, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
